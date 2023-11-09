@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: trhfhfhdfgfgh-dev
+  labels:
+    environment-id: env_1b131fa3-19eb-4bb1-b3f8-c2e684b4c867
+    project-id: project_d6e3dd68-d504-4b03-9568-01b4ce2f93a5
+    project-name: trhfhfhdfgfgh
+    environment-name: dev
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
